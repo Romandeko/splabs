@@ -1,0 +1,4 @@
+﻿  Lab2.cpp
+C:\Users\katen\OneDrive\Рабочий стол\laba2 sp\Lab2\Lab2.cpp(88,15): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+C:\Users\katen\OneDrive\Рабочий стол\laba2 sp\Lab2\Lab2.cpp(170,147): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab2.vcxproj -> C:\Users\katen\OneDrive\Рабочий стол\laba2 sp\x64\Debug\Lab2.exe
